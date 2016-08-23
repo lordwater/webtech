@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="3.0">
    <Ad id="123">
-      <Wrapper fallbackOnNoAd="false">
+      <Wrapper fallbackOnNoAd="true">
          <AdSystem>GDFP</AdSystem>
          <VASTAdTagURI><![CDATA[https://4ima3vpaid.appspot.com/?adTagUrl=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fads%3Fad_type%3Dstandardvideo%26client%3Dca-video-pub-4639102848520068%26description_url%3Dwww.ign.com%26slotname%3D8139690493%26videoad_start_delay%3D-1]]></VASTAdTagURI>
          <Error><![CDATA[https://pubads.g.doubleclick.net/pagead/conversion/?ai=Bm9zskkmzV-7EFoz5iQPrsaaoC8DUlOsGAAAAEAEgqN27JjgAWKDN18bXAWDJvvKGyKOQGboBCjcyOHg5MF94bWzIAQXAAgLgAgDqAiUvMTI0MzE5MDk2L2V4dGVybmFsL3NpbmdsZV9hZF9zYW1wbGVz-AKB0h6AAwGQA6wCmAOsAqgDAeAEAdIFBhDAtvTSApAGAaAGJNgHAOAHCw&sigh=KRhLkArltiY&label=videoplayfailed[ERRORCODE]]]></Error>
