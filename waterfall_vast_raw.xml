@@ -3,7 +3,7 @@
    <Ad id="123">
       <Wrapper fallbackOnNoAd="true">
          <AdSystem>GDFP</AdSystem>
-         <VASTAdTagURI><![CDATA[https://ima3vpaid.appspot.com/?adTagUrl=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fads%3Fad_type%3Dstandardvideo%26client%3Dca-video-pub-4639102848520068%26description_url%3Dwww.ign.com%26slotname%3D8139690493%26videoad_start_delay%3D-1]]></VASTAdTagURI>
+         <VASTAdTagURI><![CDATA[https://3ima3vpaid.appspot.com/?adTagUrl=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fads%3Fad_type%3Dstandardvideo%26client%3Dca-video-pub-4639102848520068%26description_url%3Dwww.ign.com%26slotname%3D8139690493%26videoad_start_delay%3D-1]]></VASTAdTagURI>
          <Error><![CDATA[https://pubads.g.doubleclick.net/pagead/conversion/?ai=Bm9zskkmzV-7EFoz5iQPrsaaoC8DUlOsGAAAAEAEgqN27JjgAWKDN18bXAWDJvvKGyKOQGboBCjcyOHg5MF94bWzIAQXAAgLgAgDqAiUvMTI0MzE5MDk2L2V4dGVybmFsL3NpbmdsZV9hZF9zYW1wbGVz-AKB0h6AAwGQA6wCmAOsAqgDAeAEAdIFBhDAtvTSApAGAaAGJNgHAOAHCw&sigh=KRhLkArltiY&label=videoplayfailed[ERRORCODE]]]></Error>
          <Impression><![CDATA[https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsve5TZovVVscYa2LFWkm1NXwRm6HUnPe1n_JbOQIHzR43VXjHlw8EbdG-Zu1TcW8sfRHbKqMYGQgqKhjCYczy4l2knnsuIS9jBZf2LM5HnQ9FZeuv_skhMg8OxXKJ19UukfohCLqZbH-H3m849n0BHD3qKVXtSBR7tTwssSRfX0oa87gJ9k3r-UsRgt1H-qD-Si1DEZy5wsjljJNmzUiVSMD0DC7RqljG6Lr355jIwy5Jt29tA&sig=Cg0ArKJSzGRNVgR9HgoREAE&adurl=]]></Impression>
          <Creatives>
@@ -52,7 +52,7 @@
       </Wrapper>
    </Ad>
    <Ad id="123">
-      <Wrapper fallbackOnNoAd="true">
+      <Wrapper fallbackOnNoAd="false">
          <AdSystem>GDFP</AdSystem>
          <VASTAdTagURI><![CDATA[http://soma.smaato.net/oapi/reqAd.jsp?adspace=3090&age=&androidid=&apiver=501&carriercode=&coppa=0&device=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_11_3%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F52.0.2743.116+Safari%2F537.36&devicemake=desktop&devicemodel=browser&devip=10.1.253.2&dimensionstrict=false&format=vast&formatstrict=true&gender=&googleadid=&googlednt=false&gps=%2C&height=320&iosadid=&iosadtracking=true&mraidver=0&pub=0&ref=&region=&response=XML&vastver=2&width=480&zip=]]></VASTAdTagURI>
          <Error><![CDATA[https://pubads.g.doubleclick.net/pagead/conversion/?ai=Bm9zskkmzV-7EFoz5iQPrsaaoC8DUlOsGAAAAEAEgqN27JjgAWKDN18bXAWDJvvKGyKOQGboBCjcyOHg5MF94bWzIAQXAAgLgAgDqAiUvMTI0MzE5MDk2L2V4dGVybmFsL3NpbmdsZV9hZF9zYW1wbGVz-AKB0h6AAwGQA6wCmAOsAqgDAeAEAdIFBhDAtvTSApAGAaAGJNgHAOAHCw&sigh=KRhLkArltiY&label=videoplayfailed[ERRORCODE]]]></Error>
